@@ -7,4 +7,4 @@ For best results, use audio hardware such as the iRig to feed audio from the dev
 
 Known Issues:
 ==========
-Video playback may not resume after the app is backgrounded. To restart playback, kill the app from memory and start it up again.
+- Video playback may not resume after the app is backgrounded. To restart playback, kill the app from memory and start it up again.
